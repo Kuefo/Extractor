@@ -12,7 +12,3 @@ An extremely simple tool for extracting shrdres.xzp from xam.
 
 You can also provide a custom extract directory like this: \
 DashResourceExtractor.exe "XamPath" "Extract Directory"
-
- ### Credits
- Heaventh - Created the extraction tool. \
- xorloser - Created xextool.
